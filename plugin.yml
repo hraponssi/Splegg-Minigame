@@ -1,0 +1,8 @@
+name: Splegg
+main: me.mrluangamer.Splegg
+version: 1.3
+author: Hraponssi, MrLuangamer, > Theluangamer9416
+api-version: 1.16
+depend: [Vault, WorldEdit]
+commands:
+  splegg:
